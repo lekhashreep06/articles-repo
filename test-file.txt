@@ -1,1 +1,1 @@
-Techcommunity article use case.
+Test file for techcommunity article.
