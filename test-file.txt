@@ -1,1 +1,1 @@
-Test file for techcommunity article.
+This is a file for techcommunity article.
