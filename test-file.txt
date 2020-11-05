@@ -1,1 +1,1 @@
-This is a file for techcommunity article.
+Post Message in Slack Channel for Push in GitHub
